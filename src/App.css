@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  background-color: #cbdaf8;
+}
+
+.title-red {
+  color: red;
+  font-family: Arial;
+  padding: 10px;
+}
+.paragraph1 {
+  color: rgb(45, 5, 190);
+  font-family: Arial;
+  padding: 10px;
+}
+.images {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2px;
+}
+.images img {
+  width: 150px;
+  height: 200px;
+}
